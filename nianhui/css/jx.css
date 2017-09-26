@@ -1,0 +1,198 @@
+.evaluation {
+    padding-top: 90px;
+}
+
+.evaluation img {
+    width: 80%;
+	margin: 0 auto;
+	display:block;
+}
+
+.ld_content_box h3 {
+    margin: 0 auto;
+}
+
+.ld_content_box h4 {
+    margin-top: 40px;
+    color: #D5A94D;
+    font-size: 20px;
+    text-align: center;
+}
+
+.ld_content_box .ld_content_jx3_3 {
+    margin-top: 30px;
+}
+
+.ld_content_box .ld_content_jx1 {
+    width: 77px;
+    height: 67px;
+    margin-top: 100px;
+    background: url(../images/ninahui.png) -7px -323px no-repeat;
+}
+
+.ld_content_box .ld_content_jx2 {
+    width: 74px;
+    height: 65px;
+    margin-top: 100px;
+    background: url(../images/ninahui.png) -99px -323px no-repeat;
+}
+
+.ld_content_box .ld_content_jx3 {
+    margin-top: 88px;
+    width: 77px;
+    height: 85px;
+    background: url(../images/ninahui.png) -181px -312px no-repeat;
+}
+
+.ld_content_box .ld_content_jx4 {
+    width: 77px;
+    height: 90px;
+    margin-top: 80px;
+    background: url(../images/ninahui.png) -258px -307px no-repeat;
+}
+
+.zzjg_box1{
+    width: 570px;
+    margin-left: 10px;
+}
+.zzjg_box2{
+    margin-left: 30px;
+}
+
+.jx_jxsz_box {
+    border: none;
+}
+
+.jxsz_box_youxi2 i {
+    top: 10px;
+    left: 504px;
+}
+
+.jx_rwmd_10_peo {
+    width: 275px;
+    height: 332px;
+    text-align: center;
+    background: #110F11;
+    float: left;
+    margin-left: 30px;
+    margin-top: 30px;
+    border: 1px solid #6b5527;
+}
+
+.jx_rwmd_10_peo:nth-child(4n+1) {
+    margin-left: 0;
+}
+
+.jx_rwmd_10_peo>img {
+    width: 148px;
+    height: 148px;
+    margin-top: 30px;
+    border-radius: 50%;
+}
+
+.jx_rwmd_10_peo h3 {
+    margin-top: 30px;
+    color: #8C8C8C;
+    font-size: 16px;
+}
+
+.jx_rwmd_10_peo h4 {
+    margin-top: 20px;
+    color: #D5A94D;
+    font-size: 20px;
+}
+
+.jx_rwmd_box_fx {
+    height: 44px;
+}
+
+.jx_rwmd_box_fx p:last-child {
+    width: 137px;
+    height: 44px;
+    position: relative;
+    margin-top: 12px;
+    background: #1F1E26;
+    cursor: pointer;
+}
+
+.jx_rwmd_box_fx p:first-child {
+    width: 120px;
+    height: 44px;
+    position: relative;
+    margin-top: 12px;
+    background: #1F1E26;
+    cursor: pointer;
+    padding-left: 17px;
+}
+
+.zan {
+    color: #d6a94e;
+    line-height: 44px;
+}
+
+.zan i {
+    position: absolute;
+    width: 25px;
+    height: 22px;
+    top: 10px;
+    left: 32px;
+    background: url(../images/ninahui.png) -260px -243px no-repeat;
+}
+
+.zanw {
+    color: #6b5527;
+}
+
+.zanw i {
+    background-position: -216px -243px;
+}
+
+.fenxiang {
+    position: relative;
+    font-size: 16px;
+    color: #D5A94D;
+    line-height: 44px;
+}
+
+.fenxiang i {
+    position: absolute;
+    width: 21px;
+    height: 22px;
+    top: 11px;
+    left: 20px;
+    background: url(../images/bgx.fw.png) -31px -2px no-repeat;
+}
+
+.fenxiang b,
+.zan b {
+    position: absolute;
+    width: 137px;
+    height: 137px;
+    top: -137px;
+    left: 0;
+    display: none;
+}
+
+.fenxiang.current b,
+.zan.current b {
+    display: block;
+}
+
+.fenxiang.current b img,
+.zan.current b img {
+    width: 137px;
+    height: 137px;
+}
+
+.fenxiang.xfa b img,
+.zan.xfa b img {
+    display: none;
+}
+
+.fenxiang span {
+    padding-left: 23px;
+}
+
+.highlight {
+    background-color: yellow;
+}

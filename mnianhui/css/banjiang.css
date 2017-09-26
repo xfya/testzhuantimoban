@@ -1,0 +1,293 @@
+.m_lx_content {
+    width: 100%;
+}
+
+.m_p_l_c {
+    float: left;
+    width: 25%;
+    min-height: 120px;
+    text-align: center;
+    position: relative;
+}
+
+.m_p_l_c h3 {
+    
+    margin-top: 20px;
+}
+
+.m_p_l_c .m_p_l_c_h31 {
+    width: 58px;
+    height: 58px;
+	margin-left: .35rem;
+    background: url(../images/ninahui.png) -5px -243px no-repeat;
+    background-size: 300px 300px
+}
+
+.m_p_l_c .m_p_l_c_h32 {
+    width: 55px;
+    height: 48px;
+	margin-left: .35rem;
+    background: url(../images/ninahui.png) -75px -243px no-repeat;
+    background-size: 300px 300px
+}
+
+.m_p_l_c .m_p_l_c_h33 {
+    width: 57px;
+    height: 63px;
+    margin-top: 10px;
+	margin-left: .35rem;
+    background: url(../images/ninahui.png) -135px -234px no-repeat;
+    background-size: 300px 300px
+}
+
+.m_p_l_c .m_p_l_c_h34 {
+    width: 57px;
+    height: 67px;
+    margin-top: 10px;
+	margin-left: .35rem;
+    background: url(../images/ninahui.png) -193.5px -230px no-repeat;
+    background-size: 300px 300px
+}
+
+.m_p_l_c h4 {
+    margin-bottom: 10px;
+    font-size: 0.21rem;
+    color: #d6a94d;
+}
+
+.m_p_l_c1,
+.m_p_l_c3 {
+    background: #231f20;
+}
+
+.m_p_l_c2,
+.m_p_l_c4 {
+    background: #120f11;
+}
+
+.m_p_l_c1 h4 {
+    margin-top: 7px;
+}
+
+.m_p_l_c2 h4 {
+    margin-top: 17px;
+}
+
+.m_p_l_c3 h4 {
+    margin-top: 12px;
+}
+
+.m_p_l_c4 h4 {
+    margin-top: 8px;
+}
+
+.jx_rwmd_10_peo>img {
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    border-radius: 50%;
+}
+
+.mt-p_guanzhu {
+    color: #6b5527;
+    font-size: .24rem;
+	text-align:center;
+}
+
+.jxsz_box {
+    font-size: .24rem;
+    padding-left: 15px;
+    margin-top: -1px;
+    border: none;
+}
+.jx_rwmd_10_peo_fl {
+    float: left;
+}
+
+.jx_rwmd_10_peo_p_pos span {
+    position: relative;
+    display: inline-block;
+    width: 100px;
+    height: 30px;
+    line-height: 30px;
+    border: 1px solid #392d1b;
+    border-radius: 30px;
+    padding-left: 37px;
+    margin-left: 10px;
+}
+
+.jx_rwmd_10_peo_p_pos span i {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    top: 4px;
+    left: 12px;
+    background: url(../images/ninahui.png) -195px -182px no-repeat;
+    background-size: 300px 300px;
+}
+
+.jx_rwmd_10_peo_p_pos span:last-child i {
+    background-position: -130px -182px;
+}
+
+.jxsz_ngs_hea {
+    font-size: 0.24rem;
+    padding-left: 15px;
+}
+
+.m_rwmd,
+.gs_m {
+    padding: 0 30px;
+}
+
+.jx_rwmd_10_peo {
+    margin-top: 9px;
+    border: 1px solid #6b5527;
+    border-radius: 100px 0 0 100px;
+}
+
+.jx_rwmd_10_peo_fl p {
+    margin-top: 20px;
+    margin-left: 5px;
+    color: #d6a94e;
+}
+
+.jx_fl_name p {
+    margin-top: 5px;
+    color: #8c8c8c;
+    font-size: .26rem;
+}
+
+.jx_fr_name {
+    color: #D5A94D;
+    margin-left: .26rem;
+    font-size: 24px;
+}
+
+.jx_rwmd_10_t {
+    margin-top: 7px;
+}
+
+.gs_m_text {
+    text-align: center;
+    color: #686868;
+    font-size: .24rem;
+}
+
+.m_icon_bj_b1 {
+    width: 22px;
+    height: 25px;
+    left: 34%;
+    top: 18px;
+    background-position: -27px 0;
+}
+
+.m_icon_bj_b14 {
+    width: 22px;
+    height: 25px;
+    left: 34%;
+	
+    top: 18px;
+    background-position: -2px -71px;
+}
+.bmdzl{
+    padding:0 20px;
+}
+.bmdzl .ban_date_box2{
+    width: 100%;
+    height: 128px;
+
+}
+.ban_date_box2 .fl p{
+    color:#fff;
+    font-size:.186rem;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.ban_date_box2 .fr img{
+    width: 100px;
+    height: 100px;
+    margin-top: 13px;
+    margin-right: 10px;
+}
+.ban_date_box2{
+    margin:10px 0;
+}
+@media (min-width: 360px) and (max-width: 376px) {
+    .jx_rwmd_10_peo>img {
+        width: 87px;
+        height: 87px;
+        margin-left: 15px;
+        margin-top: 13px;
+        margin-bottom: 20px;
+    }
+    .ban_date_box2 .fl p {
+
+        font-size: .13rem;
+
+        margin-left: 5px;
+    }
+    .m_rwmd,
+    .gs_m {
+        padding: 0 10px;
+    }
+    .jx_rwmd_10_peo_fl {
+        margin-left: 5px;
+    }
+    .m_p_l_c h3 {
+        margin-left: 19px;
+    }
+}
+
+@media (max-width: 360px) {
+    .m_p_l_c {
+        height: 122px;
+    }
+    .m_p_l_c h3 {
+        margin-left: 10px;
+    }
+    .jx_rwmd_10_peo>img {
+        width: 50px;
+        height: 50px;
+        margin-left: 15px;
+        margin-top: 23px;
+    }
+    .jx_rwmd_10_peo_fl {
+        float: left;
+        margin-left: 15px;
+    }
+    .jx_fl_name p {
+        margin-top: 5px;
+        font-size: .24rem;
+    }
+    .jx_rwmd_10_peo_p_pos span {
+        margin-left: 0;
+        margin-bottom: 10px;
+    }
+    .jx_fr_name {
+        font-size: .36rem;
+    }
+    .m_rwmd,
+    .gs_m {
+        padding: 0 10px;
+    }
+
+    .ban_date_box2 .fl p{
+        color:#fff;
+        font-size:.16rem;
+        margin-top: 30px;
+        margin-left: 10px;
+    }
+    .ban_date_box2 .fr img{
+        width: 80px;
+        height: 80px;
+        margin-top: 23px;
+        margin-right: 10px;
+    }
+    .bmdzl {
+        padding: 0 10px;
+    }
+}
